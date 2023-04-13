@@ -34,8 +34,8 @@ A ideia é entender e se especializar nas features acrescentadas a partir versã
 | ***executors/match/ExecutorStreamMatch.java***         | Intermediario | Executa a função match referente a Stream API.           | [Link](../../src/main/java/br/com/diegocordeiro/studies/executors/match/ExecutorStreamMatch.java)         |
 | ***executors/compare/ExecutorStreamCompare.java***       | Intermediario | Executa a função min e max referente a Stream API.       | [Link](../../src/main/java/br/com/diegocordeiro/studies/executors/compare/ExecutorStreamCompare.java)     |
 
-***Observação:*** **Vale lembrar que este repositório será atualizado frequentemente. Pois deverá ser implementado aqui 
-qualquer estudo sobre novas funcões aprendidas Stream API.**
+***Observação:*** *Vale lembrar que este repositório será atualizado frequentemente. Pois deverá ser implementado aqui 
+qualquer estudo sobre novas funcões aprendidas sob Stream API.*
 
 </br>
 <hr>
