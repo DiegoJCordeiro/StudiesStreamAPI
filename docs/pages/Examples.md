@@ -4,7 +4,7 @@
 
 # **Exemplos**
 
-### Materiais criados para estudos Expressions Lambda
+### Materiais criados para estudos Stream API
 
 </br>
 <hr>
