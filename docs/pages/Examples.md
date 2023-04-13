@@ -23,7 +23,7 @@ A ideia é entender e se especializar nas features acrescentadas a partir versã
 
 #### **Links**
 
-*Esta seção descreve os arquivos de estudos criados para o aprendizado Lambda Expression.*
+*Esta seção descreve os arquivos de estudos criados para o aprendizado Stream API.*
 
 | Recurso                                                | Nível         | Descrição                                                | Link                                                                                                      |
 |--------------------------------------------------------|---------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
